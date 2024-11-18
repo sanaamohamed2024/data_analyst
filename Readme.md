@@ -1,0 +1,1 @@
+Analyze store sales data (such as an online store) by creating an interactive dashboard that helps understand sales performance across different products and regions. This data will be used to make strategic decisions on improving sales and increasing profits. the data we use is Superstore Sales data (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
